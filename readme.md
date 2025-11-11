@@ -1,12 +1,6 @@
 
-
-## Table of Contents
-
-- [Introduction](#Introduction)
-- [Requirements](#Requirements)
-- [Data](#Data)
-- [Code](#Code)
-
+## Appendix
+If you need all the appendix information, including the complete data processing flow, LLMs prompt word scheme, and various additional experiments, please click here (waiting).
 ## Introduction
 
 The project aims to create a network that understands TPAS to address the issues of rhetorical metonymy, logical reasoning, and metaphorical expression extraction in TPAS.
